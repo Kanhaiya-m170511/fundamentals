@@ -27,7 +27,14 @@ Unit -1
      * Resistance to change
  
 * Software Engineering Processes
-
+     * A set of related activities that leads to the production of the software.
+     * 1. Feasibility Study : Abstract defenition of the problem.
+       2. Requirement analysis and specifications
+       3. Designing
+       4. Implementation ( Coding )
+       5. Testing
+       6. Deployment
+       7. Maintanance
   
 * Similarity and Differences from conventional Engineering processes
      * Nature of the Product
@@ -37,12 +44,27 @@ Unit -1
       * Quality Assurance and Testing
       * Project Management and Collaborations
       * Maintenance and Evolution
-      * 
+    
 * Software Quality Attributes
-* Software Developmemt Life Cycle
+        * Correctness 
+        * Usability
+        * Reliability
+        * Efficiency
+        * Maintainability
+        * Portability
+        * Scalability
+        * Security
+        * Modularity
+        * Reusability
+        * Testability
+  
+* Software Developmemt Life Cycle ( A process )
 * Models
-    * Waterfall
+    * Waterfall -- Classical model.
+          * When to use ? -- Small project.
+          * Advantage and Disadvantages ?
     * Prototype
+          * 
     * Spiral
     * Evolutionary
     * Itertive
