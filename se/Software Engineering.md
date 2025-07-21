@@ -1,6 +1,6 @@
 Software Engineering -- By Sancheet -- 
 
-Unit -1 
+**Unit -1** 
 
 * Intro
 * Software Components
@@ -63,17 +63,32 @@ Unit -1
     * Waterfall -- Classical model.
           * When to use ? -- Small project.
           * Advantage and Disadvantages ?
+      
     * Prototype
-          * 
+          * Evolutionary Prototyping
+          * Throwaway Prototype
+          * Advantage and Disadvantages ?
+      
     * Spiral
-    * Evolutionary
+          * Risk analysis before hand.
+          * Phases of Spiral model.
+          * Advantage and Disadvantages ?
+      
+    * Evolutionary ( Incremental )
+      
     * Itertive
  
 Q1. What is Software ? Program vs Software.
 Q2. Problems with Software ?
 Q3. What is Software Engineering ?
-
+Q4. Incremental process/ incremental development model.
+Q5. Evolutionary development models vs Iterative enhacement models ?
 
 Note 1 : Software = Program + Documentations.
 Note 2 : 
+
+
+**Unit - 2**
+**Software Requirement Specifications ( SRS )**
+
 
