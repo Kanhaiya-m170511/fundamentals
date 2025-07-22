@@ -12,24 +12,30 @@
  
 **Types of testing**
 
-1. Unit Testing
+1. Unit Testing ( Tier/Level-1 Testing)
     - Testing is performed by developers, and smalll units(generally methods) are tested on various inputs.
-    - 
-2. Integration Testing --
-   - Testing is performed on integrated units, like multiple services.
-   - 
+    - Test is performed on individual blocks/small chunks of code.
+    - Unit testing does not guarantee that, in future there won't be any bugs/failures.
+    - It is done with whitebox testing mechanism
+      
+2. Integration Testing -- 
+   - Testing is performed on integrated units by combining all the components, like multiple services.
+   - Its generally performed by testers, sometimes devs.
+   - It is done with whitebox testing mechanism.
    a. Bang Bang
    b. Top Down
    c. Bottom Up
-   d. Mixed
+   d. Mixed (Sandwich)
 
-3. System Testing
+3. System Testing 
    - Full testing of system, includes functional and non-functional requirements.
+   - Validates fully integrated system, and tests end to end requirements.
+   - It is done with blackbox testing mechanism.
    - 
      a. **Based on who is performing testing** (Functional)
-       - **Alpha** (Usually tested in house. by dev, testers).
+       - **Alpha** (Usually tested in-house. by dev, testers).
        - **Beta** ( Kind of UAT, done with limited external users).
-       - **Acceptance** ( User tests the system).
+       - **Acceptance** (end user (customers) tests the system).
      b. **Based on Performance Testing** (Non-Functional)
         - Volume
         - Load
@@ -45,3 +51,27 @@
    - 
 
 **Black Box Testing Vs White Box Testing**
+    - These are techniques to design test cases.
+    - 
+
+* **Error Seeding in Software Testing**
+  - 
+
+* **Cyclomatic Complexity**
+
+
+* **Cohesion and Coupling**
+  - Cohesion -- Talks about within module
+    - A System should have high cohesion.
+  - Coupling -- Talks about b/w modules
+    - A System should have low coupling.
+   
+* Types of cohesion
+
+* 
+
+
+
+
+
+  
